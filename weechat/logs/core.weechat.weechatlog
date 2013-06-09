@@ -1,0 +1,128 @@
+2013-06-05 21:48:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2013-06-05 21:48:03	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-05 21:48:04	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-06-05 21:48:04	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-05 21:48:04		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, script, xfer
+2013-06-05 21:48:25		irc: server irc.freenode.net created (temporary server, NOT SAVED!)
+2013-06-06 07:57:17	=!=	Error: unknown command "win" (type /help for help)
+2013-06-06 07:57:20	=!=	Error: unknown command "win" (type /help for help)
+2013-06-06 07:57:47		[core]
+2013-06-06 07:57:47		  away    buffer  command debug   filter  history key     mouse   plugin  quit    repeat  set     upgrade version window 
+2013-06-06 07:57:47		  bar     color   cursor  eval    help    input   layout  mute    proxy   reload  save    unset   uptime  wait   
+2013-06-06 07:57:47		[relay]
+2013-06-06 07:57:47		  relay
+2013-06-06 07:57:47		[xfer]
+2013-06-06 07:57:47		  me   xfer
+2013-06-06 07:57:47		[rmodifier]
+2013-06-06 07:57:47		  rmodifier
+2013-06-06 07:57:47		[script]
+2013-06-06 07:57:47		  script
+2013-06-06 07:57:47		[alias]
+2013-06-06 07:57:47		  AAWAY   AME     ANICK   C       CL      EXIT    J       KB      M       N       REDRAW  SIGNOFF UB      unalias W       WI      WW     
+2013-06-06 07:57:47		  alias   AMSG    BYE     CHAT    CLOSE   IG      K       LEAVE   MUB     Q       SAY     T       UMODE   V       WC      WII    
+2013-06-06 07:57:47		[charset]
+2013-06-06 07:57:47		  charset
+2013-06-06 07:57:47		[irc]
+2013-06-06 07:57:47		  admin      connect    dehalfop   disconnect invite     kickban    lusers     motd       notice     part       quiet      restart    sapart     servlist   summon     unban      voice      whois     
+2013-06-06 07:57:47		  allchan    ctcp       deop       halfop     ison       kill       map        msg        notify     ping       quote      sajoin     saquit     squery     time       userhost   wallchops  whowas    
+2013-06-06 07:57:47		  allserv    cycle      devoice    ignore     join       links      me         names      op         pong       reconnect  samode     server     squit      topic      users      wallops   
+2013-06-06 07:57:47		  ban        dcc        die        info       kick       list       mode       nick       oper       query      rehash     sanick     service    stats      trace      version    who       
+2013-06-06 07:57:47		[logger]
+2013-06-06 07:57:47		  logger
+2013-06-06 07:57:47		[lua]
+2013-06-06 07:57:47		  lua
+2013-06-06 07:57:47		[perl]
+2013-06-06 07:57:47		  perl
+2013-06-06 07:57:47		[python]
+2013-06-06 07:57:47		  python
+2013-06-06 07:58:38	=!=	Error: unknown command "buf" (type /help for help)
+2013-06-06 07:58:42	=!=	Error: unknown command "buff" (type /help for help)
+2013-06-06 07:58:49		[core]
+2013-06-06 07:58:49		  away    buffer  command debug   filter  history key     mouse   plugin  quit    repeat  set     upgrade version window 
+2013-06-06 07:58:49		  bar     color   cursor  eval    help    input   layout  mute    proxy   reload  save    unset   uptime  wait   
+2013-06-06 07:58:49		[relay]
+2013-06-06 07:58:49		  relay
+2013-06-06 07:58:49		[xfer]
+2013-06-06 07:58:49		  me   xfer
+2013-06-06 07:58:49		[rmodifier]
+2013-06-06 07:58:49		  rmodifier
+2013-06-06 07:58:49		[script]
+2013-06-06 07:58:49		  script
+2013-06-06 07:58:49		[alias]
+2013-06-06 07:58:49		  AAWAY   AME     ANICK   C       CL      EXIT    J       KB      M       N       REDRAW  SIGNOFF UB      unalias W       WI      WW     
+2013-06-06 07:58:49		  alias   AMSG    BYE     CHAT    CLOSE   IG      K       LEAVE   MUB     Q       SAY     T       UMODE   V       WC      WII    
+2013-06-06 07:58:49		[charset]
+2013-06-06 07:58:49		  charset
+2013-06-06 07:58:49		[irc]
+2013-06-06 07:58:49		  admin      connect    dehalfop   disconnect invite     kickban    lusers     motd       notice     part       quiet      restart    sapart     servlist   summon     unban      voice      whois     
+2013-06-06 07:58:49		  allchan    ctcp       deop       halfop     ison       kill       map        msg        notify     ping       quote      sajoin     saquit     squery     time       userhost   wallchops  whowas    
+2013-06-06 07:58:49		  allserv    cycle      devoice    ignore     join       links      me         names      op         pong       reconnect  samode     server     squit      topic      users      wallops   
+2013-06-06 07:58:49		  ban        dcc        die        info       kick       list       mode       nick       oper       query      rehash     sanick     service    stats      trace      version    who       
+2013-06-06 07:58:49		[logger]
+2013-06-06 07:58:49		  logger
+2013-06-06 07:58:49		[lua]
+2013-06-06 07:58:49		  lua
+2013-06-06 07:58:49		[perl]
+2013-06-06 07:58:49		  perl
+2013-06-06 07:58:49		[python]
+2013-06-06 07:58:49		  python
+2013-06-06 08:05:05	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2013-06-06 08:05:05	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-06 08:05:05	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-06-06 08:05:05	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-06 08:05:05		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, script, xfer
+2013-06-06 08:05:13		irc: server irc.freenode.net created (temporary server, NOT SAVED!)
+2013-06-07 17:54:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2013-06-07 17:54:02	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-07 17:54:02	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-06-07 17:54:02	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-07 17:54:02		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, script, xfer
+2013-06-07 17:57:56	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2013-06-07 17:57:56	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-07 17:57:56	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-06-07 17:57:56	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-07 17:57:56		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, script, xfer
+2013-06-07 17:57:57		irc: server irc.freenode.net created (temporary server, NOT SAVED!)
+2013-06-07 20:49:13	=!=	Error: unknown command "win" (type /help for help)
+2013-06-07 20:49:16	=!=	Error: unknown command "win" (type /help for help)
+2013-06-07 20:49:18	=!=	Error: unknown command "win" (type /help for help)
+2013-06-07 20:49:21	=!=	Error: unknown command "win" (type /help for help)
+2013-06-07 20:49:23	=!=	Error: unknown command "buf" (type /help for help)
+2013-06-07 20:49:26	=!=	Error: unknown command "buf" (type /help for help)
+2013-06-07 20:49:29	=!=	Error: unknown command "buf" (type /help for help)
+2013-06-08 17:34:19	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2013-06-08 17:34:19	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-08 17:34:19	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-06-08 17:34:19	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-08 17:34:19		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, script, xfer
+2013-06-08 17:34:22		irc: server irc.freenode.net created (temporary server, NOT SAVED!)
+2013-06-08 21:28:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2013-06-08 21:28:13	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-08 21:28:13	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-06-08 21:28:13	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-08 21:28:13		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, script, xfer
+2013-06-08 21:28:15		irc: server irc.freenode.net created (temporary server, NOT SAVED!)
+2013-06-08 21:29:21	=!=	Error: unknown option for "buffer" command
+2013-06-08 21:29:51	=!=	Error: unknown option for "window" command
+2013-06-08 21:29:53	=!=	Error: unknown option for "window" command
+2013-06-08 21:30:17	=!=	Error: unknown option for "window" command
+2013-06-08 21:30:53	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2013-06-08 21:30:53	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-08 21:30:53	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-06-08 21:30:53	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-06-08 21:30:53		Plugins loaded: alias, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, script, xfer
+2013-06-08 21:30:58		irc: server irc.freenode.net created (temporary server, NOT SAVED!)
+2013-06-08 21:35:05		script: downloading list of scripts...
+2013-06-08 21:35:06		script: 244 scripts for WeeChat 0.4.1
+2013-06-08 21:35:07		perl: loading script "/home/xecan/.weechat/perl/iset.pl"
+2013-06-08 21:35:07		perl: registered script "iset", version 3.0 (Interactive Set for configuration options)
+2013-06-08 21:35:07		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2013-06-08 21:35:07		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2013-06-08 21:35:07		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2013-06-08 21:35:07		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2013-06-08 21:44:50		Key "meta2-1;3B" unbound (context: "default")
+2013-06-08 21:44:50		New key binding (context "default"): meta2-1;3B => /window +1
+2013-06-08 21:45:08		Key "meta2-1;3A" unbound (context: "default")
+2013-06-08 21:45:08		New key binding (context "default"): meta2-1;3A => /window -1
+2013-06-09 10:45:30	=!=	Error: unknown command "clear" (type /help for help)
+2013-06-09 10:45:33	=!=	Error: unknown command "clear" (type /help for help)

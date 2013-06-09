@@ -1,0 +1,15 @@
+[2013-06-08 21:30:53] WeeChat 0.4.1 (compiled on May 20 2013 11:51:27)
+[2013-06-08 21:30:53] Reading configuration file weechat.conf
+[2013-06-08 21:30:53] Reading configuration file plugins.conf
+[2013-06-08 21:30:53] Reading configuration file relay.conf
+[2013-06-08 21:30:53] Reading configuration file xfer.conf
+[2013-06-08 21:30:53] Reading configuration file rmodifier.conf
+[2013-06-08 21:30:53] Reading configuration file script.conf
+[2013-06-08 21:30:53] Reading configuration file alias.conf
+[2013-06-08 21:30:53] Reading configuration file charset.conf
+[2013-06-08 21:30:53] Reading configuration file irc.conf
+[2013-06-08 21:30:53] Reading configuration file logger.conf
+[2013-06-08 21:30:58] irc: connecting to server irc.freenode.net/6667...
+[2013-06-08 21:35:07] Writing configuration file iset.conf (default options)
+[2013-06-08 21:35:07] Reading configuration file iset.conf
+[2013-06-09 10:37:05] irc: connecting to server irc.freenode.net/6667...

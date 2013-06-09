@@ -1,0 +1,30 @@
+#!/usr/bin/perl -w
+package test;
+use YAML::XS qw 'DumpFile LoadFile';
+use Data::Dumper;
+
+our $oplist = { "ops" => [] };
+
+
+push($oplist->{"ops"},"xecan");
+
+print Data::Dumper::Dumper $oplist;
+
+
+YAML::XS::DumpFile("test.yaml", $oplist);
+
+my $input = YAML::XS::LoadFile("test.yaml");
+
+print Data::Dumper::Dumper $input;
+
+print @{$oplist->{"ops"}};
+
+my @tmp;
+
+foreach(@{$oplist->{"ops"}}){
+	push(@tmp,$_);
+	if(grep { $_ eq 'xecan'} @{$oplist->{"ops"}}){
+		print "True";
+	}
+	}
+

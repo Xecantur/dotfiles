@@ -1,0 +1,621 @@
+info_begin
+format: 1
+mpd_version: 0.17.4
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+song_begin: Chris_Brown_look_at_me_now.mp3
+Time: 229
+Artist: Chris_Brown ft Lil Wayne, Busta Rhymes
+Title: look_at_me_now (r-f.wen.ru)
+mtime: 1370649034
+song_end
+song_begin: Dizzaft Pizzunk (100 Likes Mix) - Late Nite Leon.mp3
+Time: 887
+Artist: Late Nite Leon
+Title: Dizzaft Pizzunk (100 Likes Mix)
+Date: 2013
+Date: 2013
+Genre: Daft Punk, stylized by Late Nite Leon
+mtime: 1370648888
+song_end
+song_begin: Drake - Started from the Bottom.mp3
+Time: 268
+Artist: Drake
+Title: Started From The Bottom (Chopped Not Slopped by Slim K)
+Date: 2013
+Genre: Chopped Not Slopped
+Composer: Slim K
+mtime: 1370649035
+song_end
+song_begin: Electronic Ether - Invaders (Original Mix).mp3
+Time: 191
+Date: 2013
+mtime: 1370648907
+song_end
+song_begin: Electronic Ether - ROCK AND ROLL (GameGrumps Remix).mp3
+Time: 279
+Date: 2013
+mtime: 1370648909
+song_end
+song_begin: Porter Robinson - Language.mp3
+Time: 369
+Title: Porter Robinson - Language
+mtime: 1370649039
+song_end
+song_begin: Santigold-Disparate-Youth.mp3
+Time: 221
+Artist: Santigold
+Title: Disparate Youth
+Date: 2012
+mtime: 1370649039
+song_end
+song_begin: black_veil_brides_-_knives_and_pens.mp3
+Time: 244
+Artist: Black Veil Brides
+Title: Knives and Pens
+Genre: Other
+mtime: 1370649033
+song_end
+song_begin: 01-Rick Ross - Pray For Us.mp3
+Time: 59
+Artist: Rick Ross
+AlbumArtist: Rick Ross
+Title: Pray For Us
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 1/17
+Date: 2012
+Genre: atrilli.net
+Composer: John Singleton
+Disc: 1/1
+mtime: 1370649119
+song_end
+song_begin: 02-Rick Ross - Pirates.mp3
+Time: 206
+Artist: Rick Ross
+AlbumArtist: Rick Ross
+Title: Pirates
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 2/17
+Date: 2012
+Genre: atrilli.net
+Composer: Maurice Jordan/Matthew Furdge/William Bell/William Roberts/Booker T. Jones
+Disc: 1/1
+mtime: 1370649121
+song_end
+song_begin: 03-Rick Ross - 3 Kings Ft Dre & Jay Z.mp3
+Time: 266
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Dr. Dre & JAY Z
+Title: 3 Kings Ft Dre & Jay Z
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 3/17
+Date: 2012
+Genre: atrilli.net
+Composer: Jacob Dutton/Shawn Carter/William Roberts/James Weary/Clara Shepherd
+Disc: 1/1
+mtime: 1370649122
+song_end
+song_begin: 04-Rick Ross - Ashamed.mp3
+Time: 260
+Artist: Rick Ross
+AlbumArtist: Rick Ross
+Title: Ashamed
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 4/17
+Date: 2012
+Genre: atrilli.net
+Composer: Marty Simon/William Roberts/Jean Alain N.H. Roussel/Wilson Pickett/Andre Lyon/Marcello Valenzano/Anthony Chalk
+Disc: 1/1
+mtime: 1370649123
+song_end
+song_begin: 05-Rick Ross - Maybach Music IV Ft Ne-Yo.mp3
+Time: 314
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Ne-Yo
+Title: Maybach Music IV Ft Ne-Yo
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 5/17
+Date: 2012
+Genre: atrilli.net
+Composer: Kevin Crowe/William Roberts/Erik Ortiz/Shaffer Smith/Kenneth Bartolomei
+Disc: 1/1
+mtime: 1370649125
+song_end
+song_begin: 06-Rick Ross - Sixteen Ft Andre 3000.mp3
+Time: 498
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. André 3000
+Title: Sixteen Ft Andre 3000
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 6/17
+Date: 2012
+Genre: atrilli.net
+Composer: Andre Benjamin/Kenneth Bartolomei/William Roberts/Kevin Crowe/Erik Ortiz
+Disc: 1/1
+mtime: 1370649128
+song_end
+song_begin: 07-Rick Ross - Amsterdam.mp3
+Time: 227
+Artist: Rick Ross
+AlbumArtist: Rick Ross
+Title: Amsterdam
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 7/17
+Date: 2012
+Genre: atrilli.net
+Composer: Alain Mion/Alain Gandolfi/Carl McCormick/William Roberts
+Disc: 1/1
+mtime: 1370649129
+song_end
+song_begin: 08-Rick Ross - Hold Me Back.mp3
+Time: 271
+Artist: Rick Ross
+AlbumArtist: Rick Ross
+Title: Hold Me Back
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 8/17
+Date: 2012
+Genre: atrilli.net
+Composer: William Roberts/Joshua Johana Murphy
+Disc: 1/1
+mtime: 1370649131
+song_end
+song_begin: 09-Rick Ross - 911.mp3
+Time: 330
+Artist: Rick Ross
+AlbumArtist: Rick Ross
+Title: 911
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 9/17
+Date: 2012
+Genre: atrilli.net
+Composer: William Roberts/Roshun Walker
+Disc: 1/1
+mtime: 1370649133
+song_end
+song_begin: 10-Rick Ross - So Sophisticated Ft Meek Mill.mp3
+Time: 250
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Meek Mill
+Title: So Sophisticated Ft Meek Mill
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 10/17
+Date: 2012
+Genre: atrilli.net
+Composer: Robert Williams/William Roberts/Anthony Tucker
+Disc: 1/1
+mtime: 1370649134
+song_end
+song_begin: 11-Rick Ross - Presidential Ft Elijah Blake.mp3
+Time: 254
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Elijah Blake
+Title: Presidential Ft Elijah Blake
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 11/17
+Date: 2012
+Genre: atrilli.net
+Composer: Sean David Fenton/William Roberts/James Bedford/Roy Ayers/Lamont Porter/Christopher Wallace/Pharrell Williams/Sylvia Striplin
+Disc: 1/1
+mtime: 1370649135
+song_end
+song_begin: 12-Rick Ross - Ice Cold Ft Omarion.mp3
+Time: 232
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Omarion
+Title: Ice Cold Ft Omarion
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 12/17
+Date: 2012
+Genre: atrilli.net
+Composer: Reefa A.K.A Sharif E Slater/Omari Grandberry/William Roberts
+Disc: 1/1
+mtime: 1370649137
+song_end
+song_begin: 13-Rick Ross - Touch'n You Ft Usher.mp3
+Time: 256
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Usher
+Title: Touch'n You Ft Usher
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 13/17
+Date: 2012
+Genre: atrilli.net
+Composer: Richard Butler/William Roberts/Pierre Medor
+Disc: 1/1
+mtime: 1370649138
+song_end
+song_begin: 14-Rick Ross - Diced Pineapples Ft Wale & Drake.mp3
+Time: 279
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Wale & Drake
+Title: Diced Pineapples Ft Wale & Drake
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 14/17
+Date: 2012
+Genre: atrilli.net
+Composer: William Roberts/Carl McCormick/Aubrey Graham/Olubowale Akintimehin
+Disc: 1/1
+mtime: 1370649140
+song_end
+song_begin: 15-Rick Ross - Ten Jesus Pieces Ft Stalley.mp3
+Time: 416
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Stalley
+Title: Ten Jesus Pieces Ft Stalley
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 15/17
+Date: 2012
+Genre: atrilli.net
+Composer: Erik Ortiz/Jeffrey Osborne/Kenneth Bartolomei/Leon Franklin/Kevin Crowe/Kyle Myricks/William Roberts
+Disc: 1/1
+mtime: 1370649142
+song_end
+song_begin: 16-Rick Ross - Triple Beam Dreams Ft Nas.mp3
+Time: 281
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. Nas
+Title: Triple Beam Dreams Ft Nas
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 16/17
+Date: 2012
+Genre: atrilli.net
+Composer: Kenneth Bartolomei/William Roberts/Kevin Crowe/Erik Ortiz/Nasir Jones P/K/A NAS
+Disc: 1/1
+mtime: 1370649143
+song_end
+song_begin: 17-Rick Ross - Rich Forever Ft John Legend.mp3
+Time: 293
+Artist: Rick Ross
+AlbumArtist: Rick Ross Feat. John Legend
+Title: Rich Forever Ft John Legend
+Album: God Forgives, I Don't [Deluxe Explicit]
+Track: 17/17
+Date: 2012
+Genre: atrilli.net
+Composer: William Roberts/Matthew DelGiorno/John Stephens/Kevin Cossom/Stephen Hacker/Bigram Zayas
+Disc: 1/1
+mtime: 1370649145
+song_end
+song_begin: 01 GO!.mp3
+Time: 204
+Artist: Santigold
+Title: GO!
+Album: Master of My Make-Believe
+Track: 1/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649082
+song_end
+song_begin: 02 Disparate Youth.mp3
+Time: 284
+Artist: Santigold
+Title: Disparate Youth
+Album: Master of My Make-Believe
+Track: 2/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649084
+song_end
+song_begin: 03 God From The Machine.mp3
+Time: 232
+Artist: Santigold
+Title: God From The Machine
+Album: Master of My Make-Believe
+Track: 3/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649085
+song_end
+song_begin: 04 Fame.mp3
+Time: 209
+Artist: Santigold
+Title: Fame
+Album: Master of My Make-Believe
+Track: 4/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649086
+song_end
+song_begin: 05 Freak Like Me.mp3
+Time: 138
+Artist: Santigold
+Title: Freak Like Me
+Album: Master of My Make-Believe
+Track: 5/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649087
+song_end
+song_begin: 06 This Isn't Our Parade.mp3
+Time: 234
+Artist: Santigold
+Title: This Isn't Our Parade
+Album: Master of My Make-Believe
+Track: 6/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649088
+song_end
+song_begin: 07 The Riot's Gone.mp3
+Time: 210
+Artist: Santigold
+Title: The Riot's Gone
+Album: Master of My Make-Believe
+Track: 7/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649089
+song_end
+song_begin: 08 Pirate In The Water.mp3
+Time: 174
+Artist: Santigold
+Title: Pirate In The Water
+Album: Master of My Make-Believe
+Track: 8/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649090
+song_end
+song_begin: 09 The Keepers.mp3
+Time: 214
+Artist: Santigold
+Title: The Keepers
+Album: Master of My Make-Believe
+Track: 9/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649092
+song_end
+song_begin: 10 Look At These Hoes.mp3
+Time: 177
+Artist: Santigold
+Title: Look At These Hoes
+Album: Master of My Make-Believe
+Track: 10/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649093
+song_end
+song_begin: 11 Big Mouth.mp3
+Time: 191
+Artist: Santigold
+Title: Big Mouth
+Album: Master of My Make-Believe
+Track: 11/11
+Date: 2012
+Genre: Alternative
+Disc: 1/1
+mtime: 1370649094
+song_end
+song_begin: 01 - Mylo Xyloto.mp3
+Time: 43
+Artist: Coldplay
+Title: Mylo Xyloto
+Album: Mylo Xyloto
+Track: 01/14
+Date: 2011
+Genre: Pop
+mtime: 1370649190
+song_end
+song_begin: 02 - Hurts Like Heaven.mp3
+Time: 242
+Artist: Coldplay
+Title: Hurts Like Heaven
+Album: Mylo Xyloto
+Track: 02/14
+Date: 2011
+Genre: Pop
+mtime: 1370649191
+song_end
+song_begin: 03 - Paradise.mp3
+Time: 278
+Artist: Coldplay
+Title: Paradise
+Album: Mylo Xyloto
+Track: 03/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649192
+song_end
+song_begin: 04 - Charlie Brown.mp3
+Time: 285
+Artist: Coldplay
+Title: Charlie Brown
+Album: Mylo Xyloto
+Track: 04/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649193
+song_end
+song_begin: 05 - Us Against the World.mp3
+Time: 240
+Artist: Coldplay
+Title: Us Against the World
+Album: Mylo Xyloto
+Track: 05/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649194
+song_end
+song_begin: 06 - M.M.I.X..mp3
+Time: 49
+Artist: Coldplay
+Title: M.M.I.X.
+Album: Mylo Xyloto
+Track: 06/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649194
+song_end
+song_begin: 07 - Every Teardrop Is a Waterfall.mp3
+Time: 241
+Artist: Coldplay
+Title: Every Teardrop Is a Waterfall
+Album: Mylo Xyloto
+Track: 07/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649196
+song_end
+song_begin: 08 - Major Minus.mp3
+Time: 210
+Artist: Coldplay
+Title: Major Minus
+Album: Mylo Xyloto
+Track: 08/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649197
+song_end
+song_begin: 09 - U.F.O..mp3
+Time: 138
+Artist: Coldplay
+Title: U.F.O.
+Album: Mylo Xyloto
+Track: 09/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649197
+song_end
+song_begin: 10 - Princess of China.mp3
+Time: 239
+Artist: Coldplay
+Title: Princess of China
+Album: Mylo Xyloto
+Track: 10/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649198
+song_end
+song_begin: 11 - Up in Flames.mp3
+Time: 193
+Artist: Coldplay
+Title: Up in Flames
+Album: Mylo Xyloto
+Track: 11/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649199
+song_end
+song_begin: 12 - A Hopeful Transmission.mp3
+Time: 33
+Artist: Coldplay
+Title: A Hopeful Transmission
+Album: Mylo Xyloto
+Track: 12/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649199
+song_end
+song_begin: 13 - Don't Let It Break Your Heart.mp3
+Time: 234
+Artist: Coldplay
+Title: Don't Let It Break Your Heart
+Album: Mylo Xyloto
+Track: 13/14
+Date: 2011-10-24
+Genre: Pop
+mtime: 1370649200
+song_end
+song_begin: 14 - Up with the Birds.mp3
+Time: 228
+Artist: Coldplay
+Title: Up with the Birds
+Album: Mylo Xyloto
+Track: 14/14
+Date: 2011
+Genre: Pop
+mtime: 1370649201
+song_end
+song_begin: Black Veil Brides - Perfect Weapon.mp3
+Time: 248
+Artist: Black Veil Brides
+AlbumArtist: Black Veil Brides
+Title: Perfect Weapon
+Album: Perfect Weapon
+Track: 1/1
+Date: 2010
+Genre: Rock
+Composer: Black Veil Brides
+Disc: 1/1
+mtime: 1370649034
+song_end
+song_begin: Kanye-West-Power.mp3
+Time: 294
+Artist: Kanye West
+AlbumArtist: Kanye West
+Title: Power f. Dwele
+Album: Power
+Track: 1/1
+Date: 2010
+Genre: Hip Hop/Rap
+Composer: Kanye West
+mtime: 1370649036
+song_end
+song_begin: Otep - Rise,Rebel,Resist.mp3
+Time: 239
+Artist: Otep
+Title: Rise, Rebel, Resist
+Album: Smash The Control Machine
+Track: 1
+Date: 2009-08-18
+Genre: Nu Metal , Alternative Metal
+mtime: 1370649037
+song_end
+song_begin: TI - 24s.mp3
+Time: 192
+Artist: T.I.
+Title: 24s (PREPMODE Bmore via ATX RMX)
+Album: T.I vs T.I.P
+Genre: Bmore
+mtime: 1370649041
+song_end
+song_begin: Electronic Ether - The Invasion.mp3
+Time: 224
+Artist: Electronic Ether
+AlbumArtist: Electronic Ether
+Title: The Invasion
+Album: The Invasion
+Track: 1/1
+Date: 2012
+Genre: ZombieStep
+mtime: 1370648910
+song_end
+song_begin: Willy Moon - Yeah Yeah.mp3
+Time: 168
+Artist: Willy Moon
+AlbumArtist: Willy Moon
+Title: Yeah Yeah
+Album: Yeah Yeah - Single
+Track: 1
+Genre: Pop
+mtime: 1370649041
+song_end
