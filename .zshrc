@@ -9,7 +9,9 @@ cat ~/.art/cloud.art
 autoload -U colors && colors
 alias ls='ls --color=auto'
 alias la='ls -a --color=auto'
-alias sprunge='curl -F sprunge=<- http://sprunge.us'
+alias fuck='echo Not a Single Fuck Given'
+#alias sprunge='curl -F sprunge=<- http://sprunge.us'
+alias ix="& curl -F 'f:1=<-' ix.io"
 PROMPT="┌─$fg[cyan][%n]$reset_color─$fg[yellow][%~]$reset_color─$fg[red][%l]$reset_color─$fg[magenta][%?]$reset_color─$fg[white][%T]$reset_color
 └──╼$fg[white] "
 # End of lines configured by zsh-newuser-install

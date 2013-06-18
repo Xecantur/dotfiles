@@ -12,9 +12,10 @@ clickable_url       = true
 font                = Droid Sans Mono 9
 scrollback_lines    = 1000
 icon_name           = terminal
-#transparency        = 0.5
+transparency        = 0.2
 cursor_blink        = off
 cursor_shape        = block
+browser = chromium
 
 [hints]
 font         = Envy Code R 7

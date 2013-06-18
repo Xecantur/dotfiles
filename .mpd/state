@@ -1,6 +1,7 @@
-sw_volume: 80
+sw_volume: 94
 audio_device_state:1:default detected output
 state: stop
+current: 0
 random: 0
 repeat: 0
 single: 0
@@ -9,11 +10,9 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: nan
 playlist_begin
-0:Drake - Started from the Bottom.mp3
-1:Drake - Started from the Bottom.mp3
-2:Drake - Started from the Bottom.mp3
+0:Kanye-West-Power.mp3
+1:02 Disparate Youth.mp3
+2:Willy Moon - Yeah Yeah.mp3
 3:Drake - Started from the Bottom.mp3
-4:08-Rick Ross - Hold Me Back.mp3
-5:TI - 24s.mp3
-6:Willy Moon - Yeah Yeah.mp3
+4:Chris_Brown_look_at_me_now.mp3
 playlist_end
